@@ -23,7 +23,6 @@ Cajá
 Caju
 Cajuzinho
 Cambuci
-Camu-camu
 Caqui
 Carambola
 Cereja
@@ -39,7 +38,6 @@ Figo
 Figodaíndia
 Framboesa
 Frutadoconde
-Fruta-pão
 Gabiroba
 Goiaba
 Granadilla
@@ -64,7 +62,6 @@ Lima
 Limão
 Longan
 Maçã
-Mama-cadela
 Mamão
 Manga
 Mangaba
